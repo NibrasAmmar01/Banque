@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1676883665 source:c:\miniprojet\banque\banque.cpp
+	<iostream>
+
+1676820232 source:c:\miniprojet\banque\main.cpp
+	<iostream>
+	"Banque.cpp"
+
+1676883665 c:\miniprojet\banque\banque.cpp
+	<iostream>
+
+1676820179 c:\miniprojet\banque\banque.h
+
